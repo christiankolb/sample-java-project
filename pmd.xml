@@ -30,3 +30,4 @@
   <rule ref="rulesets/java/unusedcode.xml"/>
 </ruleset>
 <!-- another comment -->
+<!-- another comment -->
